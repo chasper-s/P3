@@ -1,0 +1,34 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Binários compilados
+build/Release
+
+# Diretórios de dependências
+node_modules/
+jspm_packages/
+
+# Diretórios de distribuição
+dist/
+
+# Arquivos de declaração TypeScript v1
+typings/
+
+# Diretório de cache npm (opcional)
+.npm
+
+# Cache eslint (opcional)
+.eslintcache
+
+# Histórico do REPL (opcional)
+.node_repl_history
+
+# Arquivos gerados pelo 'npm pack'
+*.tgz
+
+# Arquivo de integridade do Yarn
+.yarn-integrity
